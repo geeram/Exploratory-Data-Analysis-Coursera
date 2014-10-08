@@ -77,8 +77,5 @@ that the GitHub version of your repository is up to date. There should be *four
 PNG files* and *four R code files*.
 
 ## Answer
-**Files Plot1.R, Plot2.R, Plot3.R, Plot4.R,** as well as **Plot1.png, Plot2.png, 
-Plot3.png, Plot4.png**, and the **plotdata.R** (which is used to fetch and filter 
-data) are all included in the same repository. The **R files** can be used to 
-reproduce the corresponding plots as **png files**.
+**Files Plot1.R, Plot2.R, Plot3.R, Plot4.R,** as well as **Plot1.png, Plot2.png, Plot3.png, Plot4.png**,  R files fetch and filter data and also do the plotting.They are all included in the same repository. The **R files** can be used to reproduce the corresponding plots as **png files**. 
 
